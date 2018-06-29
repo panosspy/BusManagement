@@ -1,0 +1,299 @@
+<?xml version="1.1" encoding="UTF-8" ?>
+
+<Form version="1.3" maxVersion="1.7" type="org.netbeans.modules.form.forminfo.JFrameFormInfo">
+  <Properties>
+    <Property name="defaultCloseOperation" type="int" value="3"/>
+    <Property name="title" type="java.lang.String" value="Basiko Menu"/>
+  </Properties>
+  <SyntheticProperties>
+    <SyntheticProperty name="formSizePolicy" type="int" value="1"/>
+  </SyntheticProperties>
+  <AuxValues>
+    <AuxValue name="FormSettings_autoResourcing" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_autoSetComponentName" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_generateFQN" type="java.lang.Boolean" value="true"/>
+    <AuxValue name="FormSettings_generateMnemonicsCode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_i18nAutoMode" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_layoutCodeTarget" type="java.lang.Integer" value="1"/>
+    <AuxValue name="FormSettings_listenerGenerationStyle" type="java.lang.Integer" value="0"/>
+    <AuxValue name="FormSettings_variablesLocal" type="java.lang.Boolean" value="false"/>
+    <AuxValue name="FormSettings_variablesModifier" type="java.lang.Integer" value="2"/>
+  </AuxValues>
+
+  <Layout>
+    <DimensionLayout dim="0">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Group type="102" attributes="0">
+                          <Group type="103" groupAlignment="0" attributes="0">
+                              <Component id="NeaProsfora" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="NeoAitima" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="DisplayProsforon" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="DisplayAitimaton" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="RArxioProsforon" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="RArxioAitimaton" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="WArxioProsforon" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="WArxioAitimaton" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="WArxioTeriasmaton" alignment="0" min="-2" max="-2" attributes="0"/>
+                              <Component id="Exit" alignment="0" min="-2" max="-2" attributes="0"/>
+                          </Group>
+                          <EmptySpace min="-2" pref="43" max="-2" attributes="0"/>
+                      </Group>
+                      <Group type="102" alignment="0" attributes="0">
+                          <Component id="EbresikeEmfanisi" pref="329" max="32767" attributes="1"/>
+                          <EmptySpace max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+                  <Group type="102" alignment="0" attributes="0">
+                      <Component id="DipslayTeriasma" min="-2" max="-2" attributes="1"/>
+                      <EmptySpace min="-2" pref="30" max="-2" attributes="0"/>
+                  </Group>
+              </Group>
+              <Group type="103" groupAlignment="0" attributes="0">
+                  <Component id="DipslayTeriasmaButton" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="ExitButton" min="-2" max="-2" attributes="0"/>
+                  <Component id="NeoAitimaButton" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="NeaProsforaButton" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="DisplayProsforonButton" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="DisplayAitimatonButton" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="RArxioProsforonButton" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="RArxioAitimatonButton" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="WArxioProsforonButton" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="WArxioAitimatonButton" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="EbresikeEmfanisiButton" alignment="0" min="-2" max="-2" attributes="0"/>
+                  <Component id="WArxioTeriasmatonButton" alignment="0" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+    <DimensionLayout dim="1">
+      <Group type="103" groupAlignment="0" attributes="0">
+          <Group type="102" alignment="0" attributes="0">
+              <EmptySpace max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="NeaProsfora" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="NeaProsforaButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="NeoAitima" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="NeoAitimaButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="DisplayProsforon" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="DisplayProsforonButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="DisplayAitimaton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="DisplayAitimatonButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="RArxioProsforon" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="RArxioProsforonButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="RArxioAitimaton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="RArxioAitimatonButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="WArxioProsforon" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="WArxioProsforonButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="WArxioAitimaton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="WArxioAitimatonButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="DipslayTeriasma" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="DipslayTeriasmaButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="EbresikeEmfanisiButton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="EbresikeEmfanisi" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="WArxioTeriasmaton" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="WArxioTeriasmatonButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace type="unrelated" max="-2" attributes="0"/>
+              <Group type="103" groupAlignment="3" attributes="0">
+                  <Component id="Exit" alignment="3" min="-2" max="-2" attributes="0"/>
+                  <Component id="ExitButton" alignment="3" min="-2" max="-2" attributes="0"/>
+              </Group>
+              <EmptySpace pref="33" max="32767" attributes="0"/>
+          </Group>
+      </Group>
+    </DimensionLayout>
+  </Layout>
+  <SubComponents>
+    <Component class="javax.swing.JLabel" name="NeaProsfora">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gia kataxorisi neas prosforas patiste dipla"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="NeaProsforaButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Nea Prosfora"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="NeaProsforaButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="NeoAitima">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gia kataxorisi neou aitimatos patiste dipla"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="NeoAitimaButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Neo Aitima"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="NeoAitimaButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="DisplayProsforon">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gia emfanisi olon ton prosforon patiste dipla"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="DisplayProsforonButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Display Prosforon"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="DisplayProsforonButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="DisplayAitimaton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gia emfanisi olon ton aitimaton patiste dipla"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="DisplayAitimatonButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Display Aitimaton"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="DisplayAitimatonButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="RArxioProsforon">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gia na anaktisete prosfores apo ena arxio patiste dipla"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="RArxioProsforonButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="R.Arxio Prosforon"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="RArxioProsforonButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="RArxioAitimaton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gia na anaktisete aitimata apo ena arxio patiste dipla"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="RArxioAitimatonButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="R.Arxio Aitimaton"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="RArxioAitimatonButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="WArxioProsforon">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gia na sosete tis prosfores se ena arxio patiste dipla"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="WArxioProsforonButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="W.Arxio Prosforon"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="WArxioProsforonButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="WArxioAitimaton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gia na sosete ta aitimata se ena arxio patiste dipla"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="WArxioAitimatonButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="W.Arxio Aitimaton"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="WArxioAitimatonButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="EbresikeEmfanisi">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gia ebresi ke emfanisi teriasmaton aitimaton patiste dipla"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="EbresikeEmfanisiButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Teriasmata"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="EbresikeEmfanisiButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="WArxioTeriasmaton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gia apothikeusi ton teriasmaton se arxio patiste dipla"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="WArxioTeriasmatonButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="W.Arxio Teriasmaton"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="WArxioTeriasmatonButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="Exit">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gia na klisete to programma patiste dipla"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="ExitButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="EXIT"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="ExitButtonActionPerformed"/>
+      </Events>
+    </Component>
+    <Component class="javax.swing.JLabel" name="DipslayTeriasma">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Gia emfanisi prosforon pou teriazoun se ena aitima patiste dipla"/>
+      </Properties>
+    </Component>
+    <Component class="javax.swing.JButton" name="DipslayTeriasmaButton">
+      <Properties>
+        <Property name="text" type="java.lang.String" value="Ena Teriasma"/>
+      </Properties>
+      <Events>
+        <EventHandler event="actionPerformed" listener="java.awt.event.ActionListener" parameters="java.awt.event.ActionEvent" handler="DipslayTeriasmaButtonActionPerformed"/>
+      </Events>
+    </Component>
+  </SubComponents>
+</Form>
