@@ -1,0 +1,4 @@
+Athina;Larissa;25-11-2011;9:00;12:00;2
+Korinthos;Tripoli;2-12-2011;11:00;15:00;4
+Iwannina;Athina;8-1-2011;11:00;13:00;3
+

@@ -1,0 +1,44 @@
+Athina;Thessaloniki;Wed Jun 03 00:00:00 EET 1931;08:30:00;11:30:00;Lamia,Larissa,Katerini,null,null,
+Nissan;Quest;YHA1523;9;7
+Kwstas;Antras;2105544352;kostas@gmail.com;12
+
+Athina;Larissa;Wed Jun 03 00:00:00 EET 1931;12:00:00;12:30:00;Thiba,Lamia,Bolos,null,null,
+Toyota;Sienna;YZZ5645;10;9
+Maria;Gyneka;2104545777;maria@gmail.com;2
+
+Athina;Thessaloniki;Wed Feb 01 00:00:00 EET 1911;07:45:00;08:00:00;Lamia,Bolos,Katerini,Kabala,Beroia,
+Nissan;Cascai;IHK6658;5;4
+Marios;Antras;2104576859;marioskard@yahoo.gr;20
+
+Ksilokastro;Tripoli;Fri Jul 03 00:00:00 EET 1908;14:15:00;14:30:00;Korinthos,null,null,null,null,
+Skoda;Roomster;YHK7199;9;3
+Matina;Gyneka;2103423456;marigman@hotmail.com;5
+
+Athina;Kalamata;Fri Jul 03 00:00:00 EET 1908;10:45:00;11:15:00;Korinthos,Tripoli,null,null,null,
+AplhaRomeo;Julieta;EKI1259;7;3
+Euterpi;Gyneka;2103456227;euterpibibika@gmail.com;18
+
+Kefalonia;Athina;Sun Mar 03 00:00:00 EET 1912;03:30:00;03:50:00;Sami,Patra,Korinthos,null,null,
+Seat;Leon;KEB5147;3;1
+Panagiotis;Antras;2104257854;pan@gmail.com;4
+
+Kastoria;Athina;Sun Aug 03 00:00:00 EET 1913;11:00:00;11:30:00;Grebena,Iwannina,Patra,Korinthos,null,
+Volkswagen;Polo;HTY4532;10;3
+Alekos;Antras;2104567129;alekos@hotmail.com;36
+
+Tripoli;Patra;Thu Oct 02 00:00:00 EET 1919;09:20:00;09:40:00;Nemea,Ksilokastro,null,null,null,
+Toyota;Aygo;AXB6325;15;4
+Mixalis;Antras;2103652449;mixalakis@yahoo.gr;5
+
+Bolo;Patra;Thu Dec 02 00:00:00 EET 1926;03:00:00;03:30:00;Lamia,Amfisa,Naupaktos,null,null,
+Hyundai;Getz;ENM1534;6;1
+Zafiris;Antras;2103685267;zaf@yahoo.gr;14
+
+Iwannina;Athina;Sun Aug 03 00:00:00 EET 1913;12:50:00;13:15:00;Trikala,Karditsa,Lamia,Thiba,null,
+Volkswagen;Golf;AOP4136;3;1
+Labros;Antras;2104178669;lam@gmail.com;23
+
+Athina;Thessaloniki;Sat Aug 04 00:00:00 EET 1906;01:00:00;04:30:00;Bolo,Lamia,null,null,null,
+B;fsf;tgf23;15;3
+Panagiotis;Antras;24744788;panos@yaho..gr;15
+

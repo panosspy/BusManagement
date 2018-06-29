@@ -1,0 +1,36 @@
+Request:
+Athina;Larissa;Wed Jun 03 00:00:00 EET 1931;09:00:00;12:00:00;2
+
+Matching offers:
+Athina;Thessaloniki;Wed Jun 03 00:00:00 EET 1931;08:30:00;11:30:00;Lamia,Larissa,Katerini,null,null,
+Nissan;Quest;YHA1523;9;7
+Kwstas;Antras;2105544352;kostas@gmail.com;12
+
+Athina;Larissa;Wed Jun 03 00:00:00 EET 1931;12:00:00;12:30:00;Thiba,Lamia,Bolos,null,null,
+Toyota;Sienna;YZZ5645;10;9
+Maria;Gyneka;2104545777;maria@gmail.com;2
+
+Request:
+Korinthos;Tripoli;Fri Jul 03 00:00:00 EET 1908;11:00:00;15:00:00;4
+
+Matching offers:
+Ksilokastro;Tripoli;Fri Jul 03 00:00:00 EET 1908;14:15:00;14:30:00;Korinthos,null,null,null,null,
+Skoda;Roomster;YHK7199;9;3
+Matina;Gyneka;2103423456;marigman@hotmail.com;5
+
+Athina;Kalamata;Fri Jul 03 00:00:00 EET 1908;10:45:00;11:15:00;Korinthos,Tripoli,null,null,null,
+AplhaRomeo;Julieta;EKI1259;7;3
+Euterpi;Gyneka;2103456227;euterpibibika@gmail.com;18
+
+Request:
+Iwannina;Athina;Sun Aug 03 00:00:00 EET 1913;11:00:00;13:00:00;3
+
+Matching offers:
+Kastoria;Athina;Sun Aug 03 00:00:00 EET 1913;11:00:00;11:30:00;Grebena,Iwannina,Patra,Korinthos,null,
+Volkswagen;Polo;HTY4532;10;3
+Alekos;Antras;2104567129;alekos@hotmail.com;36
+
+Iwannina;Athina;Sun Aug 03 00:00:00 EET 1913;12:50:00;13:15:00;Trikala,Karditsa,Lamia,Thiba,null,
+Volkswagen;Golf;AOP4136;3;1
+Labros;Antras;2104178669;lam@gmail.com;23
+
